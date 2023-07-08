@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Tornike Jimshiashvili</h1>
+<h1 align="left">Hi 🤙, I'm Tornike Jimshiashvili</h1>
 <h3 align="left">A full stack software developer chasing my childhood passion of programming</h3>
 
 <h5 align="left">From biology to the tech industry, I have finally began my journey pursuing what I have always loved. Based in Toronto, Canada, I enjoy developing applications with an emphasis on UI/UX. My main goal is to learn new skills to develop more sophisticated applications and contribute to the evolution of technology. When I'm not coding, I spend my time pursuing other interests such as cooking, training and enjoying nature</h5>
